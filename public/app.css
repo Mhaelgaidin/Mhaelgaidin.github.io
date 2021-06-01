@@ -1,5 +1,6 @@
 body {
   display: flex;
+  flex-direction: column;
   justify-content: center;
   align-items: center;
   background-color: #edf2f4;
@@ -10,6 +11,20 @@ h1 {
   font-size: 100px;
   color: #2b2d42;
   border-bottom: 5px solid #d90429;
+  margin-bottom: 3px;
+}
+h2 {
+  margin-top: 3px;
+  margin-bottom: 3px;
+  font-family: 'Roboto', sans-serif;
+  font-size: 75px;
+  color: #2b2d42;
+}
+i {
+  color: #2b2d42;
+}
+div {
+  margin: 10px;
 }
 p {
   margin: 3px;
