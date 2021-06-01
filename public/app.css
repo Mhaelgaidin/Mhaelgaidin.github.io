@@ -11,3 +11,6 @@ h1 {
   color: #2b2d42;
   border-bottom: 5px solid #d90429;
 }
+p {
+  margin: 3px;
+}
